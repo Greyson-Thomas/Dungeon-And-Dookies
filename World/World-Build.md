@@ -1,11 +1,12 @@
 #Continental Names
   * Rogeron
   * Qabera
-  * Ecuasura
+  * Opia
   * Eotipux
   * Xaestrkaes
   * Prolox
   * Yeugrivia
+  * Blaguan
 
 ##Yeugrivia -- Forested, Mountainous, Lush, Windy
   * Regions:

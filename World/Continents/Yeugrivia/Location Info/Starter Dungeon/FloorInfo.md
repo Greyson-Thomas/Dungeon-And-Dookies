@@ -18,7 +18,16 @@
   * Players can opt into resting or they can skip in the doors of this level are not locked
 #Third Floor
   * Description: Illusory Goblins
+  * 4 Waves
+    - 1st: 6 goblins
+    - 2nd: 6 Goblins
+    - 3rd: 3 goblins + 1 shaman goblin + 1 hobgoblin
+    - 4th: 5 goblins + 2 shaman goblins
   * After opening chest each the goblins will spawn
+  * Beginner Gear will be given to them
+  * First chest has items from their class and 2 mediocre health potions 1d3
+    - Takes an action to drink
+  * Chest with potions spawn at the end of each wave
 #Fourth Floor
   * Description: Disengage and Help (Advantage)
   * Players will stand on the black squares
@@ -32,6 +41,7 @@
   * Only one attack be used. Multiple blows cannot be dealt
 #Sixth Floor
   * Description: Ranged Attacks
+  * Chest has sword and bow
   * Hitting a dummy at different ranges
   * Right in Front of them the move when be performed at disadvantage
 #Seventh Floor

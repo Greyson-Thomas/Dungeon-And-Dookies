@@ -41,10 +41,12 @@
     - Race:
     - Owner:
     - Products:
-#Adventurer's Guild
+#Drolk's Preservation Guild
 ##Goal
-   * __a__
+  * __Maintain Yuegrivia's current class and economic structure__
 ##Members
+##Description
+  * A continent wide organization that is financed and facilitated by the Kingdom of Skycker. Rulers Thoryian and Betezza
 ###Leadership
   * Guild Master
     - Name:
